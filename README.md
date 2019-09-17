@@ -6,7 +6,7 @@
 
 玩家操控一隻名為“Noodle”(​麵團，表NTHU出產的doodle​ )之四腳動物，在一個永無休止的平台上一直跳高。如果Noodle落下，則遊戲結束;跳得越高，分數便越高。
 # 3.主架構:
-![image](picture or gif url)
+![image](https://github.com/Davidlee92605/doodle_jump/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-17%20%E4%B8%8B%E5%8D%8811.01.53.png)
  
 # 4.Class 列表與簡介:
   1. Noodler:角色的父類別，將來會產生多個子類別(不同造型)
